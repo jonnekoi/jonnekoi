@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋 there</h1>
+<h1 align="center">Hi 👋</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonnekoi&label=Profile%20views&color=0e6fb6&style=flat" alt="jonnekoi" /> </p>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
